@@ -548,7 +548,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                {
              quickReplyButton: {
         displayText: '💳 Sewa',
-               id: '.SewaTakinaa',
+               id: '.sewa',
              }
 
            },
